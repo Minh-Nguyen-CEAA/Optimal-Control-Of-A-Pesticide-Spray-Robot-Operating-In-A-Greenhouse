@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "My_project")(type "KiCad")(uri "C:/Users/LENOVO/Desktop/HK252/Capstone Project/PCB/My_project.pretty")(options "")(descr ""))
+)
