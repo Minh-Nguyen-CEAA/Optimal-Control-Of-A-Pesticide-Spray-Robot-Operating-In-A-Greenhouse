@@ -1,0 +1,11 @@
+C:\Users\LENOVO\Desktop\HK252\Capstone Project\GUI\Agricultural_Robot\Agricultural_Robot\bin\Debug\Agricultural_Robot.exe.config
+C:\Users\LENOVO\Desktop\HK252\Capstone Project\GUI\Agricultural_Robot\Agricultural_Robot\bin\Debug\Agricultural_Robot.exe
+C:\Users\LENOVO\Desktop\HK252\Capstone Project\GUI\Agricultural_Robot\Agricultural_Robot\bin\Debug\Agricultural_Robot.pdb
+C:\Users\LENOVO\Desktop\HK252\Capstone Project\GUI\Agricultural_Robot\Agricultural_Robot\obj\Debug\Agricultural_Robot.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\HK252\Capstone Project\GUI\Agricultural_Robot\Agricultural_Robot\obj\Debug\Agricultural_Robot.Form1.resources
+C:\Users\LENOVO\Desktop\HK252\Capstone Project\GUI\Agricultural_Robot\Agricultural_Robot\obj\Debug\Agricultural_Robot.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\HK252\Capstone Project\GUI\Agricultural_Robot\Agricultural_Robot\obj\Debug\Agricultural_Robot.csproj.GenerateResource.cache
+C:\Users\LENOVO\Desktop\HK252\Capstone Project\GUI\Agricultural_Robot\Agricultural_Robot\obj\Debug\Agricultural_Robot.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\HK252\Capstone Project\GUI\Agricultural_Robot\Agricultural_Robot\obj\Debug\Agricultural_Robot.exe
+C:\Users\LENOVO\Desktop\HK252\Capstone Project\GUI\Agricultural_Robot\Agricultural_Robot\obj\Debug\Agricultural_Robot.pdb
+C:\Users\LENOVO\Desktop\HK252\Capstone Project\GUI\Agricultural_Robot\Agricultural_Robot\obj\Debug\Agricultural_Robot.exe.config
